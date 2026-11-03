@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">你好，我是 Mai 👋</h1>
 
-<!--
-**Maijintao/Maijintao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  AI Agent 开发 · 分布式平台与 SRE · 开发者工具
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ 关于我
+
+- 🚀 关注 AI Agent、云计算和运维自动化
+- 🛠️ 正在开发 AI 编程工具与 SRE 实践平台
+- 🌱 持续学习分布式系统、性能分析与多 Agent 协作
+- 💬 欢迎交流 C++、Python、Go、Linux 和 Agent 开发
+
+---
+
+## 💻 使用的技术
+
+### 编程语言
+
+![Python](https://img.shields.io/badge/Python-171923?style=for-the-badge&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-171923?style=for-the-badge&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/C%2B%2B-171923?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![TypeScript](https://img.shields.io/badge/TypeScript-171923?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+### 工具与平台
+
+![Linux](https://img.shields.io/badge/Linux-171923?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-171923?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-171923?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Git](https://img.shields.io/badge/Git-171923?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+## 🚀 精选项目
+
+### [Mai-Code](https://github.com/Maijintao/Mai-Code)
+
+从零实现的本地 AI Agent 运行时，支持工具调用、会话管理、MCP 和多 Agent 协作。
+
+### [MultiCloudSRE-Ops](https://github.com/Maijintao/MultiCloudSRE-Ops)
+
+多云 SRE 实践平台，支持故障注入、诊断任务和自动评分。
+
+### [OpsPaw](https://github.com/Maijintao/OpsPaw)
+
+面向 SRE 场景的智能运维 Agent，探索故障诊断与自动修复。
+
+### [mini-drop-test](https://github.com/Maijintao/mini-drop-test)
+
+性能分析平台，涵盖数据采集、任务调度和分析展示。
+
+---
+
+<p align="center">
+  探索 AI Agent、系统工程与开发者工具。
+</p>

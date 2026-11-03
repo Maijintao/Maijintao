@@ -7,7 +7,7 @@
 ---
 
 ## ⚡ 关于我
-- 💻 深圳技术大学物联网工程大三在读
+- 💻 深圳技术大学 物网工程 大三
 - 🚀 关注 AI Agent、运维自动化、有趣好玩的skill
 - 🌱 持续学习分布式系统、性能分析与多 Agent 协作
 - 💬 欢迎交流 C++、Python、Go、Linux 和 Agent 开发
@@ -29,6 +29,18 @@
 ![Docker](https://img.shields.io/badge/Docker-171923?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-171923?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Git](https://img.shields.io/badge/Git-171923?style=for-the-badge&logo=git&logoColor=F05032)
+
+### 🤖 AI Agent 开发
+
+![AI Agent](https://img.shields.io/badge/AI_Agent-171923?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-171923?style=for-the-badge&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-171923?style=for-the-badge&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-171923?style=for-the-badge&logoColor=white)
+![Multi Agent](https://img.shields.io/badge/Multi_Agent-171923?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-171923?style=for-the-badge&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-171923?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-171923?style=for-the-badge&logoColor=white)
+![Reranking](https://img.shields.io/badge/Reranking-171923?style=for-the-badge&logoColor=white)
 
 ---
 

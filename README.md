@@ -4,6 +4,10 @@
   AI Agent 开发 · 分布式平台与 SRE · 开发者工具
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=AI+Agent+%7C+Developer+Tools;Python+%7C+Go+%7C+C%2B%2B;Distributed+Systems+%7C+SRE;MCP+%7C+LangGraph+%7C+RAG" alt="AI Agent、开发者工具、编程语言与技术方向" />
+</p>
+
 ---
 
 ## ⚡ 关于我
